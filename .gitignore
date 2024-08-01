@@ -1,0 +1,6 @@
+node_modules
+.markdownlint.jsonc
+.textlintrc.json
+package-lock.json
+package.json
+.cache/kvs-node-localstorage/__kvs_version__
