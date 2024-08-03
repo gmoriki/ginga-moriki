@@ -104,6 +104,9 @@
 
 ![robot](/ginga-moriki/assets/img/Chariot_Masterpiece.png)
 
+![robot](https://github.com/gmoriki/ginga-moriki/raw/main/assets/img/Chariot_Masterpiece.png)
+
+
 ![robot](https://www.kasandbox.org/programming-images/avatars/leaf-blue.png)
 
 
