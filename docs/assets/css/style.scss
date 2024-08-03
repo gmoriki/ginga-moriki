@@ -7,6 +7,11 @@
 //   width: 1000px ;
 // }
 
+img[src="/ginga-moriki/assets/img/logo.png"] {
+  width: 50%; /* 元の画像の幅の50%に設定 */
+  height: auto; /* 高さは自動調整 */
+}
+
 section {
   width: 600px ;
 }
@@ -14,4 +19,9 @@ section {
 table {
   width: 100%;
   table-layout: auto; /* セル幅を自動調整 */
+}
+
+table td:nth-child(2) {
+  width: 30%;
+  white-space: nowrap; /* 折り返しを禁止 */
 }
