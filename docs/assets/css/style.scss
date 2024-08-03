@@ -4,9 +4,14 @@
 @import "{{ site.theme }}";
 
 wrapper {
-  width: 1060px !important;
+  width: 800px ;
 }
 
-section {
-  width: 700px !important;
+// section {
+//   width: 700px ;
+// }
+
+table {
+  width: 100%;
+  table-layout: auto; /* セル幅を自動調整 */
 }
