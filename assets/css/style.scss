@@ -3,13 +3,10 @@
 
 @import "{{ site.theme }}";
 
-/* テーブルのセル幅を自動調整 */
-table {
-  width: 100%;
-  table-layout: auto; /* セル幅を自動調整 */
+wrapper {
+  width: 1060px;
 }
 
-/* 文字の色を全て緑にする */
-* {
-  color: green;
+section {
+  width: 700px;
 }
