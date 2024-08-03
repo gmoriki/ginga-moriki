@@ -8,8 +8,8 @@
 | ------------- | --------------------- |
 | 氏名        | 森木 銀河             |
 | 生年月日      | 1994年10月5日生まれ  |
-| 学歴１        | 京都産業大学 理学部物理科学科 卒業 |
-| 学歴２        | 筑波大学大学院 教育研究科 理科教育コース 修了 |
+| 学部        | 京都産業大学 理学部物理科学科 卒業 |
+| 大学院        | 筑波大学大学院 教育研究科 理科教育コース 修了 |
 | 趣味        | 読書、アート鑑賞、アプリ開発 |
 
 ## SKILL
@@ -102,7 +102,7 @@
 大学職員・大学教員が生成AIのリテラシーを身に着けるためのドキュメントプラットフォーム。
 チャットボット付きプロンプト集のほか、生成AIの扱い方を紹介している。
 
-![robot](/assets/img/Chariot_Masterpiece.png)
+![robot](/ginga-moriki/assets/img/Chariot_Masterpiece.png)
 
 ![robot](https://www.kasandbox.org/programming-images/avatars/leaf-blue.png)
 
