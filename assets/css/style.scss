@@ -5,6 +5,11 @@
 
 /* テーブルのセル幅を自動調整 */
 table {
-    width: 100%;
-    table-layout: auto; /* セル幅を自動調整 */
-  }
+  width: 100%;
+  table-layout: auto; /* セル幅を自動調整 */
+}
+
+/* 文字の色を全て緑にする */
+* {
+  color: green;
+}
