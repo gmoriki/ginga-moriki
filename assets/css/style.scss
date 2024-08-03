@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* テーブルのセル幅を自動調整 */
+table {
+    width: 100%;
+    table-layout: auto; /* セル幅を自動調整 */
+  }
