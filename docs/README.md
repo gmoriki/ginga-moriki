@@ -102,7 +102,12 @@
 大学職員・大学教員が生成AIのリテラシーを身に着けるためのドキュメントプラットフォーム。
 チャットボット付きプロンプト集のほか、生成AIの扱い方を紹介している。
 
-![robot]('/ginga-moriki/assets/img/test.png')
+![robot]("/ginga-moriki/assets/img/test.png")
+
+![robot]("/ginga-moriki/assets/img/Chariot_Masterpiece.png")
+
+![robot]("https://www.kasandbox.org/programming-images/avatars/leaf-blue.png")
+
 
 ### AIプロダクト - 業務に適したAIのプロトタイプ powered by Dify
 
