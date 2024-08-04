@@ -15,8 +15,9 @@ img[src="/ginga-moriki/assets/img/precision-prose-polisher.png"] {
   width: 80%;
   height: auto;
   border: 1px solid #e5e5e5;
-  text-align: center;
-}
+  display: block;
+  margin: 0 auto; /* 上下のマージンは0、左右のマージンはauto */
+}}
 
 section {
   width: 580px;
