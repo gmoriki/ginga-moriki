@@ -41,17 +41,12 @@ li {
   color: #222222;
 }
 
-/* 初期状態ではサブメニューを非表示 */
-ul ul {
-  display: none;
-}
-
-/* チェックボックスがチェックされたらサブメニューを表示 */
-input[type="checkbox"]:checked + label + ul {
-  display: block;
-}
-
 p{
   color: #222222;
 
+}
+
+code{
+  font-size: 12px;
+  color: #727272;;
 }
