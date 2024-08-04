@@ -8,6 +8,11 @@ img[src="/ginga-moriki/assets/img/logo.png"] {
   height: auto;
 }
 
+img[src="/ginga-moriki/assets/img/bussiness-sequence.png"],img[src="/ginga-moriki/assets/img/precision-prose-polisher.png"] {
+  width: 50%;
+  height: auto;
+}
+
 section {
   width: 580px;
 }
@@ -29,4 +34,9 @@ h2 {
 li {
   line-height: 170% !important; /* フォントサイズのn%の行間 */
   color: #222222;
+}
+
+p{
+  color: #222222;
+
 }
