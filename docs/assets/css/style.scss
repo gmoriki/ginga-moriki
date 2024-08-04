@@ -14,7 +14,8 @@ img[src="/ginga-moriki/assets/img/bussiness-sequence.png"],
 img[src="/ginga-moriki/assets/img/precision-prose-polisher.png"] {
   width: 80%;
   height: auto;
-  border: 1px solid #e5e5e5;;
+  border: 1px solid #e5e5e5;
+  text-align: center;
 }
 
 section {
@@ -38,6 +39,16 @@ h2 {
 li {
   line-height: 170% !important; /* フォントサイズのn%の行間 */
   color: #222222;
+}
+
+/* 初期状態ではサブメニューを非表示 */
+ul ul {
+  display: none;
+}
+
+/* チェックボックスがチェックされたらサブメニューを表示 */
+input[type="checkbox"]:checked + label + ul {
+  display: block;
 }
 
 p{
