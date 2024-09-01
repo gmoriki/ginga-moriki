@@ -1,3 +1,3 @@
-# 作成中🦺
+# Hello👾
 
-職務紹介リポジトリ
+[職務経歴書](https://gmoriki.github.io/ginga-moriki/)作成のためのリポジトリです。
