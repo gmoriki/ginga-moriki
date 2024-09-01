@@ -3,7 +3,7 @@
 
 ## ABSTRACT
 
-大学組織におけるシステム運用とデータ駆動型の意思決定支援、人材育成に従事。特に、生成AIの活用による業務効率化と人材開発に注力し、組織全体のデジタルトランスフォーメーション（DX）を推進。豊富な研修開発・運営経験と、多様なステークホルダーとの協働実績を有する。
+大学組織におけるシステム運用とデータ駆動型の意思決定支援、人材育成に従事。特に、データを情報として活用するための仕組みづくり、生成AIの活用による業務効率化と人材開発に注力し、九州大学および他大学のDXの推進を支援した。生成AIに関する豊富な知見と研修の企画・実施経験、データ分析の経験と、多様な関係者との協働実績を有する。
 
 ## PROFILE
 
@@ -20,7 +20,7 @@
 
 ## CAREER MISSION
 
-私は**公共の価値に資するDXの推進**のためには人材開発・組織開発が不可欠だと考えています。大学におけるデータアナリティクスおよび研修講師の経験を活かし、バックエンドからより良いデータ体験・AI体験をデザインすることで、業務を担う職員によるDXを支援します。
+私は**公共の価値に資するDXの推進**のためには明確なミッションに基づく人材開発・組織開発が不可欠だと考えています。バックオフィスから人材開発とユーザー体験をデザインし、多様な業務を担う職員によるDXを効果的に支援します。
 
 ## 職務経歴
 
@@ -185,7 +185,8 @@ Difyに構築・無償公開中。
 
 # 関連リンク
 
-* [researchmap](https://researchmap.jp/gmoriki)
-* [speakerdeck](https://speakerdeck.com/gmoriki)
+* [Researchmap](https://researchmap.jp/gmoriki)
+* [SpeakerDeck](https://speakerdeck.com/gmoriki)
 * [note](https://note.com/pogohopper8/)
 * [GitHub](https://github.com/gmoriki)
+* [LinkedIn](https://www.linkedin.com/in/gmoriki/)
