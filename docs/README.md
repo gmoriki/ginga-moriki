@@ -148,7 +148,7 @@ SD(Staff Development)は大学職員の能力開発や資質向上を目指す�
 被引用例：
 [ChatGPT等の生成系AI利用に関する留意事項（教員向け）](https://olg.cds.tohoku.ac.jp/forstaff/ai-tools){:target="_blank"}
 
-## [P4Us](https://promptforus.com/)
+## [P4Us](https://promptforus.com/){:target="_blank"}
 
 大学職員のためのプロンプトガイド。Prompt Guide for University staff。
 2023年11月30より大学職員・大学教員が生成AIのリテラシーを身に着けるためのドキュメントプラットフォームを運用している。
