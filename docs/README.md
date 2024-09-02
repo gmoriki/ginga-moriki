@@ -177,7 +177,7 @@ Difyに構築・無償公開中。
 
 > ビジネスプロセスを視覚的なシーケンス図に自動変換するAIアシスタントツールです。ユーザーが入力したビジネスプロセスを解析し、関係する人物や部門、システムなどの参加者と、各ステップの流れを特定します。そして、これらの情報を基に、矢印や図形を使用した分かりやすい図表を生成します。
 
-### [文章改善エージェント](https://promptforus.com/docs/products/precision-prose-polisher/)
+### [文章改善エージェント](https://promptforus.com/docs/products/precision-prose-polisher/){:target="_blank"}
 
 ![bussiness-sequence](assets/img/precision-prose-polisher.png)
 
@@ -185,8 +185,8 @@ Difyに構築・無償公開中。
 
 # 関連リンク
 
-* [Researchmap](https://researchmap.jp/gmoriki)
-* [SpeakerDeck](https://speakerdeck.com/gmoriki)
-* [note](https://note.com/pogohopper8/)
-* [GitHub](https://github.com/gmoriki)
-* [LinkedIn](https://www.linkedin.com/in/gmoriki/)
+* [Researchmap](https://researchmap.jp/gmoriki){:target="_blank"}
+* [SpeakerDeck](https://speakerdeck.com/gmoriki){:target="_blank"}
+* [note](https://note.com/pogohopper8/){:target="_blank"}
+* [GitHub](https://github.com/gmoriki){:target="_blank"}
+* [LinkedIn](https://www.linkedin.com/in/gmoriki/){:target="_blank"}
