@@ -133,6 +133,7 @@ SD(Staff Development)は大学職員の能力開発や資質向上を目指す�
 | 2024/08/27 | 日本マイクロソフト<br>佐賀大学 | 大学業務における生成AI利活用セミナー  | 大学職員は生成AIを「実際に」活用できるのか  |
 | 2024/09/04 | 大学コンソーシアムひょうご神戸 | FD・SDセミナー「大学における生成AI活用について考える」 | 大学業務の観点から生成AI利用を考える |
 | 2024/09/18 | 学校法人東放学園 | 教職員研修 | 業務のための画像/テキスト生成AI入門 |
+| 2024/09/24 | 愛媛大学教育学生支援部 教育企画課 | 教職員研修 | 大学業務における生成AI活用 初級編 |
 
 
 # ポートフォリオ
@@ -161,8 +162,12 @@ SD(Staff Development)は大学職員の能力開発や資質向上を目指す�
 
 ## [AIプロダクト](https://promptforus.com/docs/products/){:target="_blank"}
 
-非エンジニアである大学教員・職員がAIを活用するイメージを醸成するためのAIプロダクトを
-Difyに構築・無償公開中。
+非エンジニアである大学教員・職員がAIを活用するイメージを醸成するためのAIプロダクトをDifyに構築・無償公開中。成果の一部は[生成AI in 福岡 福岡生成AI 活用Meetup Vol.1](https://lu.ma/1q8ufp9q?locale=ja){:target="_blank"}にて公開し、XのDify日本公式アカウントに認知されている。
+
+参考：
+
+* [Difyを活用した「内省支援」エージェント開発の所感](https://speakerdeck.com/gmoriki/difywohuo-yong-sita-nei-sheng-zhi-yuan-ezientokai-fa-nosuo-gan){:target="_blank"}
+* [Dify.AI Japan](https://x.com/DifyJapan/status/1838486924992090421)
 
 ### [何でも相談おじいさん](https://promptforus.com/docs/products/moderation-ai/){:target="_blank"}
 
