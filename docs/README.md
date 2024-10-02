@@ -125,13 +125,15 @@ SD(Staff Development)は大学職員の能力開発や資質向上を目指す�
 
 ## [研修スライド資料](https://speakerdeck.com/gmoriki/da-xue-ye-wu-niokerusheng-cheng-aihuo-yong-noxian-zai-di-ji-ben-bian){:target="_blank"}
 
-九州大学FD「大学業務における生成AI活用の現在地 -基本編-」のスライド資料。AIを取り巻き変化する社会の中でAI利用者としての大学職員や大学組織に求められる認識や営為について、AI事業者ガイドラインをもとに説明。
+九州大学FD「大学業務における生成AI活用の現在地 -基本編-」のスライド資料。AIを取り巻き変化する社会の中でAI利用者としての大学職員や大学組織に求められる認識や営為について、AI事業者ガイドラインをもとに説明している。
+
+その他資料：[SpeakerDeck](https://speakerdeck.com/gmoriki){:target="_blank"}
 
 ## [動画教材](https://www.youtube.com/playlist?list=PLOHTwgnlEcTZoHzYdA9jVx1hOk_5_pI8T){:target="_blank"}
 
 動画教材「大学業務における生成AI入門」ほか、研修のアーカイブ記録を保存している。
 
-## [生成AIへの対応を表明した国内の大学一覧](https://note.com/pogohopper8/n/n3126b312f209){:target="_blank"}
+## [生成AIへの対応を表明した国内の大学一覧@note](https://note.com/pogohopper8/n/n3126b312f209){:target="_blank"}
 
 国内で最も早く作成・公開された大学の生成AIポリシー一覧。[データベース版](https://docs.google.com/spreadsheets/d/1cDOqaIdu9JKOYuF0ThG33oixE09m210z/edit#gid=1530250804){:target="_blank"}も公開中。
 東北大学のHPをはじめとする各所で引用されている。
@@ -144,6 +146,17 @@ SD(Staff Development)は大学職員の能力開発や資質向上を目指す�
 大学職員のためのプロンプトガイド。Prompt Guide for University staff。
 2023年11月30より大学職員・大学教員が生成AIのリテラシーを身に着けるためのドキュメントプラットフォームを運用している。
 チャットボット付きプロンプト集のほか、生成AIリテラシーを身につけるためのコンテンツを用意した。
+
+### [生成AIに関するナレッジのオープン化@note](https://note.com/pogohopper8){:target="_blank"}
+
+[P4Us](https://promptforus.com/){:target="_blank"}の他、2023年3月より[note](https://note.com/pogohopper8/){:target="_blank"}に生成AIに関するナレッジを逐次公開中。
+
+参考：
+
+* [GPTsのシステムプロンプト](https://note.com/pogohopper8/n/n190eec325d74){:target="_blank"}
+* [「OfficerAIde」に事務業務を委託しよう【GPTs】](https://note.com/pogohopper8/n/n4d5f37247100){:target="_blank"}
+* [調べものはPerplexityにやらせよう](https://note.com/pogohopper8/n/na26c8c729773){:target="_blank"}
+
 
 ## [AIプロダクト](https://promptforus.com/docs/products/){:target="_blank"}
 
