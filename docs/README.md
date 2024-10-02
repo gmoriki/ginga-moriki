@@ -162,7 +162,7 @@ SD(Staff Development)は大学職員の能力開発や資質向上を目指す�
 
 ## [AIプロダクト](https://promptforus.com/docs/products/){:target="_blank"}
 
-非エンジニアである大学教員・職員がAIを活用するイメージを醸成するためのAIプロダクトをDifyに構築・無償公開中。成果の一部は[生成AI in 福岡 福岡生成AI 活用Meetup Vol.1](https://lu.ma/1q8ufp9q?locale=ja){:target="_blank"}にて公開し、XのDify日本公式アカウントに認知されている。
+Difyを使用して大学教職員のためのAIプロダクトを試行的に開発・無償で公開中。成果の一部を[生成AI in 福岡 福岡生成AI 活用Meetup Vol.1](https://lu.ma/1q8ufp9q?locale=ja){:target="_blank"}や国立情報学研究所が主催する[大学等におけるオンライン教育とデジタル変革に関するサイバーシンポジウム「教育機関DXシンポ」](https://www.nii.ac.jp/event/upload/202401003-4_moriki.pdf){:target="_blank"}にて報告。生成AI in 福岡のLT資料がXのDify日本公式アカウントにも取り上げられている。
 
 参考：
 
@@ -173,11 +173,15 @@ SD(Staff Development)は大学職員の能力開発や資質向上を目指す�
 
 ![moderation-ai](assets/img/moderation-ai.png)
 
+使用しているLLM：Command R＋
+
 > 大学職員としての経験が豊富なおじいさんの人格を持つAI会話アシスタントです。ユーザーとの対話を通じて、極端な考えに陥っていないかを確認し、より広い視野や相対化、対立する見方を提供します。完全に中立的な立場を取るのではなく、大学職員の立場から優しく共感しながら、異なる考えや習慣を持つ人々との共存について知恵を提供します。
 
 ### [デスクトップアナリスト](https://promptforus.com/docs/products/desktop-analyst/){:target="_blank"}
 
 ![desktop-analyst](assets/img/desktop-analyst.png)
+
+使用しているLLM：GPT4o mini,Command R+
 
 > ユーザーがアップロードしたスクリーンショットを分析し、ビジネス環境や作業状況に関する詳細な洞察を提供します。
 
@@ -185,11 +189,15 @@ SD(Staff Development)は大学職員の能力開発や資質向上を目指す�
 
 ![bussiness-sequence](assets/img/bussiness-sequence.png)
 
+使用しているLLM：GPT4o mini
+
 > ビジネスプロセスを視覚的なシーケンス図に自動変換するAIアシスタントツールです。ユーザーが入力したビジネスプロセスを解析し、関係する人物や部門、システムなどの参加者と、各ステップの流れを特定します。そして、これらの情報を基に、矢印や図形を使用した分かりやすい図表を生成します。
 
 ### [文章改善エージェント](https://promptforus.com/docs/products/precision-prose-polisher/){:target="_blank"}
 
 ![bussiness-sequence](assets/img/precision-prose-polisher.png)
+
+使用しているLLM：GPT4o mini,Gemini1.5 Pro,Claude3 haiku
 
 > 文章校正と改善を支援するAIベースのツールです。ユーザーが入力した文章を分析し、接続詞や副詞の使用、論理構造、表現の自然さなどの観点から改善点を特定します。AIアシスタントが文章を段落ごとに詳細に検討し、より明確で読みやすい表現への修正案を提示します。
 
