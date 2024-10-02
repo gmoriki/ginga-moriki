@@ -167,7 +167,8 @@ Difyを使用して大学教職員のためのAIプロダクトを試行的に�
 参考：
 
 * [Difyを活用した「内省支援」エージェント開発の所感](https://speakerdeck.com/gmoriki/difywohuo-yong-sita-nei-sheng-zhi-yuan-ezientokai-fa-nosuo-gan){:target="_blank"}
-* [Dify.AI Japan](https://x.com/DifyJapan/status/1838486924992090421)
+* [大学等におけるオンライン教育とデジタル変革に関するサイバーシンポジウム「教育機関DXシンポ」](https://www.nii.ac.jp/event/other/decs/){:target="_blank"}
+* [Dify.AI Japanの投稿](https://x.com/DifyJapan/status/1838486924992090421){:target="_blank"}
 
 ### [何でも相談おじいさん](https://promptforus.com/docs/products/moderation-ai/){:target="_blank"}
 
