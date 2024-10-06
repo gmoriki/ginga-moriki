@@ -15,6 +15,7 @@
 | 大学院        | 筑波大学大学院 教育研究科 理科教育コース 修了 |
 | 主な資格        | 高等学校教諭専修免許状（理科）、3級知的財産管理技能士、G検定 |
 | 主なスキル        | 生成AIコーディネート、データアナリティクス、業務効率化 |
+| 使用ツール        | Python3,Docker,Git,VSCode,PostgreSQL,Tableau |
 | 趣味        | コーヒードリップ、読書、アート鑑賞、OSS開発、ollama |
 
 * [LinkedIn](https://www.linkedin.com/in/gmoriki/){:target="_blank"}
@@ -103,7 +104,7 @@ Institutional Research(IR)...高等教育機関における意思決定や計画
 
 ## 主な研修実績
 
-過去全ての研修実績：[Researchmap - 講演・口頭発表等](https://researchmap.jp/gmoriki/presentations)
+過去全ての研修実績：[Researchmap - 講演・口頭発表等](https://researchmap.jp/gmoriki/presentations){:target="_blank"}
 
 用語解説：
 
