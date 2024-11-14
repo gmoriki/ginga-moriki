@@ -148,7 +148,7 @@ SD(Staff Development)は大学職員の能力開発や資質向上を目指す�
 2023年11月30より大学職員・大学教員が生成AIのリテラシーを身に着けるためのドキュメントプラットフォームを運用している。
 チャットボット付きプロンプト集のほか、生成AIリテラシーを身につけるためのコンテンツを用意した。
 
-論文：[大学職員のためのプロンプトガイドの開発 ―人材開発における生成 AI 利用者と生成 AI の関わりに焦点を当てて―](https://researchmap.jp/gmoriki/published_papers/48409552)
+論文：[大学職員のためのプロンプトガイドの開発 ―人材開発における生成 AI 利用者と生成 AI の関わりに焦点を当てて―](https://researchmap.jp/gmoriki/published_papers/48409552){:target="_blank"}
 
 ### [生成AIに関するナレッジのオープン化@note](https://note.com/pogohopper8){:target="_blank"}
 
