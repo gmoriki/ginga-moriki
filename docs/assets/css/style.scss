@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 img[src="/ginga-moriki/assets/img/logo.png"] {
-  width: 50%; /* 親要素の幅の50% */
+  width: 200px; /* 親要素の幅の50% */
   height: auto; /* アスペクト比を保持 */
   display: block; /* ブロック要素にすることで中央揃えにしやすくする */
   position: relative; /* 相対位置を設定 */
