@@ -4,10 +4,8 @@
 @import "{{ site.theme }}";
 
 img[src="/ginga-moriki/assets/img/logo.png"] {
-  // width: auto;
-  // height: auto;
-  max-width: 50%; /* 親要素の幅に合わせる */
-  height: auto;    /* アスペクト比を保持する */
+  width: 50%;
+  height: auto;
 }
 
 img[src="/ginga-moriki/assets/img/moderation-ai.png"],
