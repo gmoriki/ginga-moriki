@@ -1,5 +1,4 @@
-# WHO AM I
-AIとヒトをつなぐ人
+date:20241129
 
 ## ABSTRACT
 
