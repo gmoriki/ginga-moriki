@@ -20,8 +20,10 @@ img[src="/ginga-moriki/assets/img/precision-prose-polisher.png"] {
 }
 
 section {
-  width: 580px;
+  max-width: 580px;
+  width: 100%;
 }
+
 
 /* タブレットサイズ */
 @media (max-width: 768px) {
